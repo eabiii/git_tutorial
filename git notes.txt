@@ -1,0 +1,17 @@
+GIT
+-Distributed version control
+-Coordinate between multiple devs
+-local and remote repos(Github, bitbucket)
+-revert back anytime
+Concept
+-keeps track of code history
+-snapshots of files
+
+Basic Commands
+git init            //Initialize Local Git Repository
+git add <file>      // Add file(s) to index
+git status          //Check status of working tree
+git commit          //Commit changes in index
+git push            // Push to Remote Repository
+git pull            // Pull Latest from remote Repository
+git clone           //Clone Repository into a new directory
