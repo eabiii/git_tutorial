@@ -17,3 +17,4 @@ git pull                        // Pull Latest from remote Repository
 git clone                      //Clone Repository into a new directory
 git commit - m 'ANY_MSG'      //Commit changes with message
 git checkout 'BRANCHNAME'    //Change to other branch
+git merge BRANCHNAME        //Merge specifid branch
